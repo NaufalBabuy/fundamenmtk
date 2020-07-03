@@ -1,0 +1,1 @@
+plot(FMB_Gatau)
